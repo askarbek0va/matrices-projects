@@ -1,1 +1,1 @@
-name=print('Please enter your name;', input())
+name=input('Please enter your name:')
