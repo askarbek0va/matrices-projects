@@ -99,7 +99,7 @@ def play_again():
     if play_again == "yes":
         play()
     else:
-        print("Game over. Here's the sorted list of players.")
+        print("Game over. Here's the sorted list of players:" )
         # Add sorting logic for players (not implemented)
         exit()
 
